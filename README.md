@@ -8,7 +8,7 @@ Flask is a web framework for Python. This project is a starting point for a Flas
 - Install the node modules. (`npm install`)
 - Install bower dependencies. (`bower install`)
 - Fire up the `runserver.py` script. (`python runserver.py`)
-- Visit http://localhost:6500/.
+- Visit [http://localhost:6500/](http://localhost:6500/).
 
 ## Development
 
